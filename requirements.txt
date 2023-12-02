@@ -1,8 +1,0 @@
-streamlit
-openai
-llama-index
-nltk
-pypdf
-transformers
-torch
-torchvision
