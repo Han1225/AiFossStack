@@ -1,4 +1,4 @@
-.venvlangllama/
+.venv/
 .DS_Store
 data_big/
 indexes/
