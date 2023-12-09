@@ -2,3 +2,6 @@
 .DS_Store
 data_big/
 indexes/
+
+# Allow
+!indexes/index
