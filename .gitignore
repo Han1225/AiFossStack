@@ -4,4 +4,4 @@ data_big/
 indexes/
 
 # Allow
-!indexes/index
+!indexes/index/*
