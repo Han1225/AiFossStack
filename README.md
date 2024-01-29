@@ -10,8 +10,8 @@ $ source .venv/bin/activate
 * Data: place the knowledge files (text or pdf) that you wish to use as source inside the "data" folder. You can create subfolders. The repo contains a sample pdf feel free to replace it by your own docs.
 
 ## Start the app
-$ streamlit run app.py
+$ streamlit run llm_connection.py
 
 ## Your defaults
-* Open the app.py file with a text editor and change the system prompt and other settings
+* Open the llm_connection.py file with a text editor and change the system prompt and other settings
 
