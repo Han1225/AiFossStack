@@ -2,7 +2,7 @@
 
 The objective of the AI FOSS Stack is to serve as a foundational building block to build apps that leverage pre-trained large language models (LLMs) which are open source and can run on low-specification hardware.
 
-This solution is developed in the context of a collaboration between Fordham University and the UN Office of Information and Communications Technology. Read more: http://ideas.unite.un.org/fordham 
+This solution is developed in the context of a collaboration between Fordham University and the UN Office of Information and Communications Technology. Read more: (https://idea.unite.un.org/servlet/hype/IMT?userAction=Browse&templateName=&documentId=9a2ac7887125130f9c0b845f27418e49)
 
 The team includes Hannah, Remi, Peter, Sophie, Robert, and more...
 
